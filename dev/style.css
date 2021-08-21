@@ -1,0 +1,41 @@
+body {
+    background-color: #0d0c11;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+h1 {
+    padding-left: 20px;
+    padding-top: 20px;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h2 {
+    padding-left: 20px;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: gray;
+}
+
+img {
+    padding-left: 20px;
+    width: 75px;
+    height: 75px;
+}
+
+.title {
+    width: 600px;
+}
+
+.cont {
+    padding-top: 20px;
+    padding-left: 20px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
